@@ -1,10 +1,5 @@
 //Name: Kritika Partha  
-//Date: March 08 2020
-// What I learned: I learned how to create hashsets and add elements to the hashset. I also got refreshed
-//about how to read a file and what exceptions to throw for file reading. 
-// Question:  If Java didn't implement Sets, how would you solve this programming problem?  Be creative!
-// I would use a priority queue and label characters with certain numbers, such that A is 1. When
-//items are added to the PQ, the compiler would organize the elements alphabetically according to priority. 
+//Date: March 08 2020 
 import java.util.*;
 import java.io.*;
 public class Pd6ParthaKritikaSetofLetters_shell {
